@@ -6,6 +6,7 @@ import notification from "../../services/notification";
 import axios from "axios";
 
 import { Container, Row, Col } from "react-bootstrap";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 import * as S from "./style";
 
